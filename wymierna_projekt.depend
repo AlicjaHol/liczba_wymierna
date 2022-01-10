@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1641806680 source:c:\users\alaho\desktop\ala\uczelnia\drugi-st\ta\wymierna_projekt\src\wymierna.cpp
+	"wymierna.h"
+	<iostream>
+
+1641806202 c:\users\alaho\desktop\ala\uczelnia\drugi-st\ta\wymierna_projekt\include\wymierna.h
+	<iostream>
+	<set>
+
+1641806702 source:c:\users\alaho\desktop\ala\uczelnia\drugi-st\ta\wymierna_projekt\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<set>
+	"wymierna.h"
+
